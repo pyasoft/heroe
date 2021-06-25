@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951391443796",
+    "firebase_url": "https://prueba-2cfce.firebaseio.com",
+    "project_id": "prueba-2cfce",
+    "storage_bucket": "prueba-2cfce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951391443796:android:4608fb3253782115d3c6c1",
+        "android_client_info": {
+          "package_name": "com.aac.superheroe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951391443796-n7kh1vjrbg6cqlp7d950fj51mh7s2g2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6AejyAD47RUUsWki1GQc_M6jAaQRPVHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951391443796-n7kh1vjrbg6cqlp7d950fj51mh7s2g2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

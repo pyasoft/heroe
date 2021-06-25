@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="whiteSmoke">#FAFAFA</color>
+    <color name="orangeRed">#FF6E40</color>
+    <color name="onyx">#212121</color>
+    <color name="lightGray">#EEEEEE</color>
+    <color name="blueGreen">#00838F</color>
+
+    <color name="buttonLabel">#FFFFFF</color>
+
+    <!-- Screens background color-->
+
+    <!-- dots inactive colors -->
+
+    <!-- dots active colors -->
+
+</resources>

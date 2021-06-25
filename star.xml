@@ -1,0 +1,1921 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <id>1</id>
+    <name>Luke Skywalker</name>
+    <height>1.72</height>
+    <mass>73</mass>
+    <gender>male</gender>
+    <homeworld>tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Luke_Skywalker</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg</image>
+    <born>-19</born>
+    <bornLocation>polis massa</bornLocation>
+    <died>34</died>
+    <diedLocation>ahch-to</diedLocation>
+    <species>human</species>
+    <hairColor>blond</hairColor>
+    <eyeColor>blue</eyeColor>
+    <skinColor>light</skinColor>
+    <cybernetics>Prosthetic right hand</cybernetics>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Red Squadron</affiliations>
+    <affiliations>Rogue Squadron</affiliations>
+    <affiliations>Massassi Group</affiliations>
+    <affiliations>Leia Organa&#x27;s team</affiliations>
+    <affiliations>Endor strike team</affiliations>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Bright Tree tribe</affiliations>
+    <affiliations>New Republic</affiliations>
+    <affiliations>Resistance</affiliations>
+    <masters>Obi-Wan Kenobi</masters>
+    <masters>Yoda</masters>
+    <apprentices>Leia Organa</apprentices>
+    <apprentices>Ben Solo (along with a dozen apprentices)</apprentices>
+    <apprentices>Rey</apprentices>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>2</id>
+    <name>C-3PO</name>
+    <height>1.71</height>
+    <mass>75</mass>
+    <gender>male</gender>
+    <homeworld>tatooine</homeworld>
+    <species>droid</species>
+    <wiki>http://starwars.wikia.com/wiki/C-3PO</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png</image>
+    <dateCreated>-32</dateCreated>
+    <dateDestroyed>3</dateDestroyed>
+    <destroyedLocation>bespin, rebuilt shortly after</destroyedLocation>
+    <creator>Anakin Skywalker</creator>
+    <manufacturer>Cybot Galactica</manufacturer>
+    <model>3PO unit</model>
+    <class>Protocol droid</class>
+    <sensorColor>yellow</sensorColor>
+    <platingColor>gray, later primarily golden</platingColor>
+    <equipment>TranLang III communication module</equipment>
+    <affiliations>Skywalker family</affiliations>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <affiliations>Royal House of Naboo</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>House of Organa</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Massassi Group</affiliations>
+    <affiliations>Leia Organa&#x27;s team</affiliations>
+    <affiliations>Pathfinders</affiliations>
+    <affiliations>Endor strike team</affiliations>
+    <affiliations>Bright Tree tribe</affiliations>
+    <affiliations>New Republic</affiliations>
+    <affiliations>Resistance</affiliations>
+    <affiliations>Resistance spy droid network</affiliations>
+    <skinColor>gold</skinColor>
+    <eyeColor>yellow</eyeColor>
+    <born>-112</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>3</id>
+    <name>R2-D2</name>
+    <height>1.09</height>
+    <mass>32</mass>
+    <gender>male</gender>
+    <homeworld>naboo</homeworld>
+    <species>droid</species>
+    <wiki>http://starwars.wikia.com/wiki/R2-D2</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png</image>
+    <manufacturer>Industrial Automaton</manufacturer>
+    <productLine>R-series</productLine>
+    <model>R2 series astromech droid</model>
+    <class>Astromech droid</class>
+    <sensorColor>red</sensorColor>
+    <platingColor>bluesilver</platingColor>
+    <equipment>Buzz saw</equipment>
+    <equipment>Electric pike</equipment>
+    <equipment>Drinks tray (Only on Jabba&#x27;s Sail Barge)</equipment>
+    <equipment>Fusion welder</equipment>
+    <equipment>Data probe</equipment>
+    <equipment>Power recharge coupler</equipment>
+    <equipment>Rocket booster</equipment>
+    <equipment>Holoprojector</equipment>
+    <equipment>Motorized, all-terrain treads</equipment>
+    <equipment>Retractable third leg</equipment>
+    <affiliations>Royal House of Naboo</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>501st Legion</affiliations>
+    <affiliations>R2-D2&#x27;s battle droid squadron</affiliations>
+    <affiliations>D-Squad</affiliations>
+    <affiliations>House of Organa</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Massassi Group</affiliations>
+    <affiliations>Red Squadron</affiliations>
+    <affiliations>Leia Organa&#x27;s team</affiliations>
+    <affiliations>Endor strike team</affiliations>
+    <affiliations>Bright Tree tribe</affiliations>
+    <affiliations>Resistance</affiliations>
+    <skinColor>white, blue</skinColor>
+    <eyeColor>red</eyeColor>
+    <born>-33</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>4</id>
+    <name>Darth Vader</name>
+    <height>2.03</height>
+    <mass>120</mass>
+    <gender>male</gender>
+    <homeworld>tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Anakin_Skywalker</wiki>
+    <image>https://vignette.wikia.nocookie.net/fr.starwars/images/3/32/Dark_Vador.jpg</image>
+    <born>-41</born>
+    <died>4</died>
+    <diedLocation>death star ii, endor system</diedLocation>
+    <species>human</species>
+    <hairColor>blond</hairColor>
+    <eyeColor>blue, yellow (dark side)</eyeColor>
+    <skinColor>light, later pale</skinColor>
+    <cybernetics>Cybernetic right arm; later prosthetic arms and legs, and a life-support system</cybernetics>
+    <affiliations>501st Legion</affiliations>
+    <affiliations>Sith</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Imperial High Command</affiliations>
+    <masters>Qui-Gon Jinn (informal Jedi Master)</masters>
+    <masters>Obi-Wan Kenobi (Jedi Master)</masters>
+    <masters>Darth Sidious (Sith Master)</masters>
+    <masters>Yoda (Force spirit teacher)</masters>
+    <apprentices>Ahsoka Tano (Padawan)</apprentices>
+    <apprentices>Inquisitorius</apprentices>
+    <formerAffiliations>Jedi Order</formerAffiliations>
+    <formerAffiliations>Jedi High Council</formerAffiliations>
+    <formerAffiliations>Galactic Republic</formerAffiliations>
+  </row>
+  <row>
+    <id>5</id>
+    <name>Leia Organa</name>
+    <height>1.5</height>
+    <mass>51</mass>
+    <gender>female</gender>
+    <homeworld>alderaan</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Leia_Organa</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/f/fc/Leia_Organa_TLJ.png</image>
+    <born>-19</born>
+    <bornLocation>polis massa (2 days after empire day)</bornLocation>
+    <species>human</species>
+    <hairColor>brown, later graying</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Elder Houses</affiliations>
+    <affiliations>House of Organa</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Imperial Senate</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Massassi Group</affiliations>
+    <affiliations>Leia Organa&#x27;s team</affiliations>
+    <affiliations>Endor strike team</affiliations>
+    <affiliations>Alliance High Command</affiliations>
+    <affiliations>Bright Tree tribe</affiliations>
+    <affiliations>New Republic</affiliations>
+    <affiliations>Populists</affiliations>
+    <affiliations>Resistance</affiliations>
+    <masters>Luke Skywalker</masters>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>6</id>
+    <name>Owen Lars</name>
+    <height>1.7</height>
+    <mass>120</mass>
+    <gender>male</gender>
+    <homeworld>tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Owen_Lars</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/e/eb/OwenCardTrader.png</image>
+    <died>0</died>
+    <diedLocation>tatooine</diedLocation>
+    <species>human</species>
+    <hairColor>brown, later gray</hairColor>
+    <eyeColor>blue</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Lars family</affiliations>
+    <born>-52</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>7</id>
+    <name>Beru Whitesun lars</name>
+    <height>1.65</height>
+    <mass>75</mass>
+    <gender>female</gender>
+    <homeworld>tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Beru_Whitesun_Lars</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/c/cc/BeruCardTrader.png</image>
+    <died>0</died>
+    <diedLocation>tatooine</diedLocation>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>blue</eyeColor>
+    <skinColor>light</skinColor>
+    <born>-47</born>
+    <affiliations/>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>8</id>
+    <name>R5-D4</name>
+    <height>0.97</height>
+    <mass>32</mass>
+    <gender>male</gender>
+    <homeworld>tatooine</homeworld>
+    <species>droid</species>
+    <wiki>http://starwars.wikia.com/wiki/R5-D4</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/c/cb/R5-D4_Sideshow.png</image>
+    <manufacturer>Industrial Automaton</manufacturer>
+    <model>R5 unit</model>
+    <class>Astromech droid</class>
+    <sensorColor>red</sensorColor>
+    <platingColor>white, red, blue</platingColor>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <skinColor>white, red</skinColor>
+    <eyeColor>red</eyeColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>9</id>
+    <name>Biggs Darklighter</name>
+    <height>1.83</height>
+    <mass>84</mass>
+    <gender>male</gender>
+    <homeworld>tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Biggs_Darklighter</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/0/00/BiggsHS-ANH.png</image>
+    <died>0</died>
+    <diedLocation>yavin system</diedLocation>
+    <species>human</species>
+    <hairColor>black</hairColor>
+    <eyeColor>hazel</eyeColor>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Prefsbelt Fleet Camp</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Red Squadron</affiliations>
+    <affiliations>Massassi Group</affiliations>
+    <skinColor>light</skinColor>
+    <born>-24</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>10</id>
+    <name>Obi-Wan Kenobi</name>
+    <height>1.82</height>
+    <mass>81</mass>
+    <gender>male</gender>
+    <homeworld>stewjon</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Obi-Wan_Kenobi</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg</image>
+    <born>-57</born>
+    <died>0</died>
+    <diedLocation>death star, alderaan system</diedLocation>
+    <species>human</species>
+    <hairColor>light brown, later white</hairColor>
+    <eyeColor>gray-blue</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>212th Attack Battalion</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <masters>Qui-Gon Jinn</masters>
+    <masters>Yoda</masters>
+    <apprentices>Anakin Skywalker</apprentices>
+    <apprentices>Luke Skywalker</apprentices>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>11</id>
+    <name>Anakin Skywalker</name>
+    <height>2.03</height>
+    <mass>120</mass>
+    <gender>male</gender>
+    <homeworld>tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Anakin_Skywalker</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png</image>
+    <born>-41</born>
+    <died>4</died>
+    <diedLocation>death star ii, endor system</diedLocation>
+    <species>human</species>
+    <hairColor>blond</hairColor>
+    <eyeColor>blue, yellow (dark side)</eyeColor>
+    <skinColor>light, later pale</skinColor>
+    <cybernetics>Cybernetic right arm; later prosthetic arms and legs, and a life-support system</cybernetics>
+    <affiliations>501st Legion</affiliations>
+    <affiliations>Sith</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Imperial High Command</affiliations>
+    <masters>Qui-Gon Jinn (informal Jedi Master)</masters>
+    <masters>Obi-Wan Kenobi (Jedi Master)</masters>
+    <masters>Darth Sidious (Sith Master)</masters>
+    <masters>Yoda (Force spirit teacher)</masters>
+    <apprentices>Ahsoka Tano (Padawan)</apprentices>
+    <apprentices>Inquisitorius</apprentices>
+    <formerAffiliations>Jedi Order</formerAffiliations>
+    <formerAffiliations>Jedi High Council</formerAffiliations>
+    <formerAffiliations>Galactic Republic</formerAffiliations>
+  </row>
+  <row>
+    <id>12</id>
+    <name>Wilhuff Tarkin</name>
+    <height>1.82</height>
+    <gender>male</gender>
+    <homeworld>eriadu</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Wilhuff_Tarkin</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/c/c1/Tarkininfobox.jpg</image>
+    <born>-64</born>
+    <died>0</died>
+    <diedLocation> death star, yavin system</diedLocation>
+    <species>human</species>
+    <hairColor>auburn, later gray</hairColor>
+    <eyeColor>gray-blue</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Sullust Sector Spacefarers Academy</affiliations>
+    <affiliations>Judicial Forces</affiliations>
+    <affiliations>Republic Navy</affiliations>
+    <affiliations>Strategic Advisory Cell</affiliations>
+    <affiliations>Outland Regions Security Force</affiliations>
+    <affiliations>Outland&#x27;s anti-pirate taskforce</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Battle Station Command</affiliations>
+    <affiliations>Imperial Officer Corps</affiliations>
+    <affiliations>Imperial Navy</affiliations>
+    <affiliations>Tarkin Initiative</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>13</id>
+    <name>Chewbacca</name>
+    <height>2.28</height>
+    <mass>112</mass>
+    <gender>male</gender>
+    <homeworld>kashyyyk</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Chewbacca</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png</image>
+    <born>-200</born>
+    <bornLocation>kashyyyk</bornLocation>
+    <species>wookiee</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>blue</eyeColor>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Leia Organa&#x27;s team</affiliations>
+    <affiliations>Pathfinders</affiliations>
+    <affiliations>Endor strike team</affiliations>
+    <affiliations>Bright Tree tribe</affiliations>
+    <affiliations>New Republic</affiliations>
+    <affiliations>Resistance</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>14</id>
+    <name>Han Solo</name>
+    <height>1.8</height>
+    <mass>80</mass>
+    <gender>male</gender>
+    <homeworld>corellia</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Han_Solo</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/e/e2/TFAHanSolo.png</image>
+    <born>-29</born>
+    <bornLocation>corellia</bornLocation>
+    <died>34</died>
+    <diedLocation>starkiller base</diedLocation>
+    <species>human</species>
+    <hairColor>brown, later gray</hairColor>
+    <eyeColor>hazel</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Jabba Desilijic Tiure&#x27;s criminal empire</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Leia Organa&#x27;s team</affiliations>
+    <affiliations>Endor strike team</affiliations>
+    <affiliations>Kingdom of Han</affiliations>
+    <affiliations>Bright Tree tribe</affiliations>
+    <affiliations>New Republic</affiliations>
+    <affiliations>New Republic Pilots Commission</affiliations>
+    <affiliations>Han Solo&#x27;s shipping company</affiliations>
+    <affiliations>Resistance</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>15</id>
+    <name>Greedo</name>
+    <height>1.74</height>
+    <mass>74</mass>
+    <gender>male</gender>
+    <homeworld>Rodia</homeworld>
+    <homeworld>Tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Greedo</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg</image>
+    <died>0</died>
+    <diedLocation>tatooine</diedLocation>
+    <species>rodian</species>
+    <eyeColor>purple</eyeColor>
+    <skinColor>green</skinColor>
+    <affiliations>Trade Federation</affiliations>
+    <born>-44</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>16</id>
+    <name>Jabba Desilijic Tiure</name>
+    <height>3.9</height>
+    <mass>1358</mass>
+    <gender>male</gender>
+    <homeworld>tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Jabba_Desilijic_Tiure</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/7/7f/Jabba_SWSB.png</image>
+    <born>-600</born>
+    <died>4</died>
+    <diedLocation>tatooine</diedLocation>
+    <species>hutt</species>
+    <eyeColor>orange</eyeColor>
+    <skinColor>green and tan</skinColor>
+    <kajidic>Desilijic</kajidic>
+    <affiliations>Hutt Clan</affiliations>
+    <affiliations>Grand Hutt Council</affiliations>
+    <affiliations>Jabba Desilijic Tiure&#x27;s criminal empire</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Shadow Collective</affiliations>
+    <affiliations>Crymorah syndicate</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>18</id>
+    <name>Wedge Antilles</name>
+    <height>1.7</height>
+    <mass>77</mass>
+    <gender>male</gender>
+    <homeworld>corellia</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Wedge_Antilles</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/6/60/WedgeHelmetless-ROTJHD.jpg</image>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Phoenix Cell</affiliations>
+    <affiliations>Massassi Group</affiliations>
+    <affiliations>Red Squadron</affiliations>
+    <affiliations>Rogue Squadron</affiliations>
+    <affiliations>New Republic</affiliations>
+    <affiliations>Phantom Squadron</affiliations>
+    <born>-21</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>19</id>
+    <name>Jek Tono Porkins</name>
+    <height>1.8</height>
+    <mass>110</mass>
+    <gender>male</gender>
+    <homeworld>bestine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Jek_Tono_Porkins</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/e/eb/JekPorkins-DB.png</image>
+    <died>0</died>
+    <diedLocation>yavin system</diedLocation>
+    <species>human</species>
+    <skinColor>light</skinColor>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Tierfon Yellow Aces</affiliations>
+    <affiliations>Red Squadron</affiliations>
+    <affiliations>Massassi Group</affiliations>
+    <hairColor>brown</hairColor>
+    <eyeColor>blue</eyeColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>20</id>
+    <name>Yoda</name>
+    <height>0.66</height>
+    <mass>13</mass>
+    <gender>male</gender>
+    <wiki>http://starwars.wikia.com/wiki/Yoda</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png</image>
+    <born>-896</born>
+    <died>4</died>
+    <diedLocation>dagobah</diedLocation>
+    <species>yoda&#x27;s species</species>
+    <hairColor>white</hairColor>
+    <eyeColor>green-gold</eyeColor>
+    <skinColor>green</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Grand Army of the Republic</affiliations>
+    <masters>Unidentified Jedi (Jedi Master)</masters>
+    <masters>Garro (stonepower master)</masters>
+    <masters>Qui-Gon Jinn (as Force spirit)</masters>
+    <apprentices>Dooku (Padawan)</apprentices>
+    <apprentices>Obi-Wan Kenobi</apprentices>
+    <apprentices>Luke Skywalker</apprentices>
+    <apprentices>Anakin Skywalker (as Force spirit)</apprentices>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>21</id>
+    <name>Palpatine</name>
+    <height>1.78</height>
+    <mass>75</mass>
+    <gender>male</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Palpatine</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/d/d8/Emperor_Sidious.png</image>
+    <born>-82</born>
+    <bornLocation>naboo</bornLocation>
+    <died>4</died>
+    <diedLocation>death star ii (original body)</diedLocation>
+    <species>human</species>
+    <hairColor>red, later gray and white</hairColor>
+    <eyeColor>blue; yellow/red (dark side)</eyeColor>
+    <skinColor>fair, later pale</skinColor>
+    <era>Rise of the Empire era</era>
+    <era>Rebellion era</era>
+    <era>New Republic era</era>
+    <affiliations>House Palpatine</affiliations>
+    <affiliations>Damask Holdings</affiliations>
+    <affiliations>Royal House of Naboo</affiliations>
+    <affiliations>Sith</affiliations>
+    <affiliations>Order of the Sith Lords</affiliations>
+    <affiliations>Naboo Diplomatic Corps</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Galactic Senate</affiliations>
+    <affiliations>Trade Federation</affiliations>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Dark Empire</affiliations>
+    <masters>Darth Plagueis</masters>
+    <apprentices>Darth Maul</apprentices>
+    <apprentices>A Nikto</apprentices>
+    <apprentices>Vergere</apprentices>
+    <apprentices>Darth Tyranus</apprentices>
+    <apprentices>Garth Ezzar</apprentices>
+    <apprentices>Darth Vader</apprentices>
+    <apprentices>Ferus Olin (informal)</apprentices>
+    <apprentices>Mara Jade</apprentices>
+    <apprentices>Cronal</apprentices>
+    <apprentices>Lumiya</apprentices>
+    <apprentices>Luke Skywalker (briefly)</apprentices>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>22</id>
+    <name>Boba Fett</name>
+    <height>1.83</height>
+    <mass>78</mass>
+    <gender>male</gender>
+    <homeworld>kamino</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Boba_Fett</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/7/79/Boba_Fett_HS_Fathead.png</image>
+    <born>Shortly after the Battle of Naboo</born>
+    <species>human</species>
+    <hairColor>black</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>tan</skinColor>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <affiliations>Boba Fett&#x27;s syndicate</affiliations>
+    <affiliations>Jabba Desilijic Tiure&#x27;s criminal empire</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>23</id>
+    <name>IG-88</name>
+    <height>1.96</height>
+    <mass>140</mass>
+    <gender>male</gender>
+    <species>droid</species>
+    <wiki>http://starwars.wikia.com/wiki/IG-88</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/f/f2/IG-88.png</image>
+    <dateDestroyed>3</dateDestroyed>
+    <destroyedLocation>bespin</destroyedLocation>
+    <manufacturer>Holowan Laboratories</manufacturer>
+    <productLine>IG-series</productLine>
+    <model>IG-88 assassin droid</model>
+    <class>Assassin droid</class>
+    <degree>Class 4</degree>
+    <sensorColor>red</sensorColor>
+    <platingColor>chrome</platingColor>
+    <armament>Blaster rifles</armament>
+    <armament>Concussion discs</armament>
+    <armament>DAS-430 Neural Inhibitor</armament>
+    <armament>Flamethrower</armament>
+    <armament>Needle dart gun</armament>
+    <armament>Poison darts</armament>
+    <armament>Pulse cannons</armament>
+    <armament>Sonic device</armament>
+    <armament>Toxic gas dispensers</armament>
+    <armament>Vibroblades</armament>
+    <equipment>Acid-proof servo wires</equipment>
+    <equipment>Heat sensor</equipment>
+    <equipment>Sound sensor</equipment>
+    <equipment>Vocoder</equipment>
+    <skinColor>metal</skinColor>
+    <eyeColor>red</eyeColor>
+    <born>-15</born>
+    <affiliations/>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>24</id>
+    <name>Bossk</name>
+    <height>1.9</height>
+    <mass>113</mass>
+    <gender>male</gender>
+    <homeworld>trandosha</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Bossk</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/1/1d/Bossk.png</image>
+    <species>trandoshan</species>
+    <eyeColor>orange</eyeColor>
+    <skinColor>green</skinColor>
+    <affiliations>Bounty Hunters&#x27; Guild</affiliations>
+    <affiliations>Boba Fett&#x27;s syndicate</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Chelli Aphra&#x27;s crew</affiliations>
+    <born>-53</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>25</id>
+    <name>Lando Calrissian</name>
+    <height>1.77</height>
+    <mass>79</mass>
+    <gender>male</gender>
+    <homeworld>socorro</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Lando_Calrissian</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/8/8f/Lando_ROTJ.png</image>
+    <born>-30</born>
+    <species>human</species>
+    <hairColor>black</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>dark</skinColor>
+    <affiliations>Cloud City colony</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Gold Squadron</affiliations>
+    <affiliations>New Republic</affiliations>
+    <affiliations>New Republic military</affiliations>
+    <affiliations>Uprising</affiliations>
+    <affiliations>Calrissian Enterprises</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>26</id>
+    <name>Lobot</name>
+    <height>1.75</height>
+    <mass>79</mass>
+    <gender>male</gender>
+    <homeworld>bespin</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Lobot</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/9/96/SWE_Lobot.jpg</image>
+    <species>human</species>
+    <eyeColor>blue</eyeColor>
+    <skinColor>light</skinColor>
+    <cybernetics>AJ^6 cyborg construct</cybernetics>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Imperial Military</affiliations>
+    <affiliations>Cloud City</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>New Republic</affiliations>
+    <born>-37</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>27</id>
+    <name>Ackbar</name>
+    <height>1.8</height>
+    <mass>83</mass>
+    <gender>male</gender>
+    <homeworld>mon cala</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Gial_Ackbar</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/2/29/Admiral_Ackbar_RH.png</image>
+    <born>-50</born>
+    <died>34</died>
+    <diedLocation>raddus, oetchi system</diedLocation>
+    <species>mon calamari</species>
+    <eyeColor>orange</eyeColor>
+    <skinColor>brown mottle</skinColor>
+    <affiliations>Mon Cala monarchy</affiliations>
+    <affiliations>Mon Calamari Guard</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Alliance Fleet</affiliations>
+    <affiliations>Alliance High Command</affiliations>
+    <affiliations>New Republic</affiliations>
+    <affiliations>New Republic Defense Fleet</affiliations>
+    <affiliations>Resistance</affiliations>
+    <affiliations>Resistance High Command</affiliations>
+    <affiliations>Resistance Fleet Command</affiliations>
+    <affiliations>Resistance navy</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>28</id>
+    <name>Mon Mothma</name>
+    <height>1.73</height>
+    <gender>female</gender>
+    <homeworld>chandrila</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Mon_Mothma</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/b/b7/MP-MonMothma.png</image>
+    <born>-46</born>
+    <species>human</species>
+    <hairColor>auburn</hairColor>
+    <eyeColor>pale blue-green</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Loyalist Committee</affiliations>
+    <affiliations>Delegation of 2,000</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Imperial Senate</affiliations>
+    <affiliations>Mon Mothma&#x27;s rebel cell</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>New Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>29</id>
+    <name>Arvel Crynyd</name>
+    <gender>male</gender>
+    <wiki>http://starwars.wikia.com/wiki/Arvel_Crynyd</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/d/de/Arvel-crynyd.jpg</image>
+    <died>4</died>
+    <diedLocation>executor</diedLocation>
+    <species>human</species>
+    <eyeColor>brown</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Green Squadron</affiliations>
+    <hairColor>brown</hairColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>30</id>
+    <name>Wicket Systri Warrick</name>
+    <height>0.8</height>
+    <mass>20</mass>
+    <gender>male</gender>
+    <homeworld>endor</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Wicket_W._Warrick</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/4/4f/Wicket_RotJ.png</image>
+    <species>ewok</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>brownish black</eyeColor>
+    <affiliations>Bright Tree tribe</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <skinColor>brown</skinColor>
+    <born>-8</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>31</id>
+    <name>Nien Nunb</name>
+    <height>1.6</height>
+    <mass>68</mass>
+    <gender>male</gender>
+    <homeworld>sullust</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Nien_Nunb</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/1/14/Old_nien_nunb_-_profile.png</image>
+    <species>sullustan</species>
+    <eyeColor>black</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>House of Organa</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Gold Squadron</affiliations>
+    <affiliations>New Republic</affiliations>
+    <affiliations>Resistance</affiliations>
+    <affiliations>Red Squadron</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>32</id>
+    <name>Qui-Gon Jinn</name>
+    <height>1.93</height>
+    <mass>89</mass>
+    <gender>male</gender>
+    <homeworld>coruscant</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Qui-Gon_Jinn</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/f/f6/Qui-Gon_Jinn_Headshot_TPM.jpg</image>
+    <died>-32</died>
+    <diedLocation>naboo</diedLocation>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>blue</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <masters>Dooku</masters>
+    <apprentices>Obi-Wan Kenobi</apprentices>
+    <apprentices>Anakin Skywalker (informally)</apprentices>
+    <apprentices>Yoda (as Force spirit)</apprentices>
+    <born>-92</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>33</id>
+    <name>Nute Gunray</name>
+    <height>1.91</height>
+    <mass>90</mass>
+    <gender>male</gender>
+    <homeworld>neimoidia</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Nute_Gunray</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/f/fd/Nute_Gunray_SWE.png</image>
+    <died>-19</died>
+    <diedLocation>mustafar</diedLocation>
+    <species>neimoidian</species>
+    <eyeColor>red</eyeColor>
+    <skinColor>green</skinColor>
+    <affiliations>Trade Federation</affiliations>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <affiliations>Separatist Council</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>34</id>
+    <name>Finis Valorum</name>
+    <height>1.7</height>
+    <gender>male</gender>
+    <homeworld>coruscant</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Finis_Valorum</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/5/51/ValorumPortrait-SWE.png</image>
+    <species>human</species>
+    <hairColor>white</hairColor>
+    <eyeColor>blue</eyeColor>
+    <skinColor>fair</skinColor>
+    <affiliations>House Valorum</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Galactic Senate</affiliations>
+    <born>-91</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>35</id>
+    <name>Padmé Amidala</name>
+    <height>1.65</height>
+    <mass>45</mass>
+    <gender>female</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Padm%C3%A9_Amidala</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/b/b2/Padmegreenscrshot.jpg</image>
+    <born>-46</born>
+    <bornLocation>naboo</bornLocation>
+    <died>-19</died>
+    <diedLocation>polis massa (2 days after empire day)</diedLocation>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>light brown</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Apprentice Legislators</affiliations>
+    <affiliations>Legislative Youth Program</affiliations>
+    <affiliations>Royal House of Naboo</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Loyalist Committee</affiliations>
+    <affiliations>Delegation of 2,000</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Imperial Senate</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>36</id>
+    <name>Jar Jar Binks</name>
+    <height>1.96</height>
+    <mass>66</mass>
+    <gender>male</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Jar_Jar_Binks</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/d/d2/Jar_Jar_aotc.jpg</image>
+    <species>gungan</species>
+    <eyeColor>yellow</eyeColor>
+    <skinColor>orange and white</skinColor>
+    <affiliations>Gungan High Council</affiliations>
+    <affiliations>Officer corps</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Naboo delegation</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Imperial Senate</affiliations>
+    <born>-52</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>37</id>
+    <name>Roos Tarpals</name>
+    <height>2.24</height>
+    <mass>82</mass>
+    <gender>male</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Roos_Tarpals</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/c/ca/TarpalsHS.jpg</image>
+    <died>-20</died>
+    <diedLocation>naboo</diedLocation>
+    <species>gungan</species>
+    <eyeColor>orange</eyeColor>
+    <skinColor>purple and white</skinColor>
+    <affiliations>Gungan Grand Army</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>38</id>
+    <name>Rugor Nass</name>
+    <height>2.06</height>
+    <gender>male</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Rugor_Nass</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/d/d8/Bossnass.jpg</image>
+    <species>gungan</species>
+    <eyeColor>yellow</eyeColor>
+    <skinColor>green</skinColor>
+    <affiliations>Gungan High Council</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>39</id>
+    <name>Ric Olié</name>
+    <height>1.83</height>
+    <gender>male</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Ric_Oli%C3%A9</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/4/4c/RicOlieHS-SWE.png</image>
+    <species>human</species>
+    <hairColor>light brown</hairColor>
+    <eyeColor>bluish green</eyeColor>
+    <affiliations>Royal House of Naboo</affiliations>
+    <affiliations>Royal Naboo Security Forces</affiliations>
+    <affiliations>Bravo Flight</affiliations>
+    <skinColor>fair</skinColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>40</id>
+    <name>Watto</name>
+    <height>1.37</height>
+    <gender>male</gender>
+    <homeworld>toydaria</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Watto</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/e/eb/WattoHS.jpg</image>
+    <species>toydarian</species>
+    <eyeColor>orange</eyeColor>
+    <skinColor>blue</skinColor>
+    <affiliations>Watto&#x27;s shop</affiliations>
+    <affiliations>Mos Espa</affiliations>
+    <hairColor>black</hairColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>41</id>
+    <name>Sebulba</name>
+    <height>1.12</height>
+    <mass>40</mass>
+    <gender>male</gender>
+    <homeworld>malastare</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Sebulba</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/1/14/Sebulba_Headshot_Closeup.png</image>
+    <species>dug</species>
+    <eyeColor>yellow</eyeColor>
+    <skinColor>purple and beige</skinColor>
+    <affiliations/>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>42</id>
+    <name>Quarsh Panaka</name>
+    <height>1.83</height>
+    <gender>male</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Quarsh_Panaka</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/7/72/PanakaHS-TPM.png</image>
+    <died>-3</died>
+    <diedLocation>onoam</diedLocation>
+    <species>human</species>
+    <hairColor>black, later with flecks of gray</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>dark</skinColor>
+    <affiliations>Royal House of Naboo</affiliations>
+    <affiliations>Royal Naboo Security Forces</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Republic Special Task Force</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <born>-62</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>43</id>
+    <name>Shmi Skywalker</name>
+    <height>1.63</height>
+    <gender>female</gender>
+    <homeworld>tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Shmi_Skywalker_Lars</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/a/ad/ShmiSkywalkerDatabank_%28Repurposed%29.jpeg</image>
+    <born>-72</born>
+    <died>-22</died>
+    <diedLocation>tatooine</diedLocation>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Skywalker family</affiliations>
+    <affiliations>Lars family</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>44</id>
+    <name>Darth Maul</name>
+    <height>1.75</height>
+    <mass>80</mass>
+    <gender>male</gender>
+    <homeworld>dathomir</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Darth_Maul</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/5/50/Darth_Maul_profile.png</image>
+    <died>-2</died>
+    <diedLocation>tatooine</diedLocation>
+    <species>dathomirian zabrak</species>
+    <eyeColor>yellow and red</eyeColor>
+    <skinColor>red (black tattoos)</skinColor>
+    <cybernetics>Six-legged apparatus (formerly)</cybernetics>
+    <cybernetics>Two cybernetic legs</cybernetics>
+    <affiliations>Nightbrothers</affiliations>
+    <affiliations>Sith</affiliations>
+    <affiliations>Cad Bane&#x27;s group</affiliations>
+    <affiliations>Death Watch</affiliations>
+    <affiliations>Shadow Collective</affiliations>
+    <masters>Darth Sidious</masters>
+    <apprentices>Savage Opress</apprentices>
+    <born>-54</born>
+    <formerAffiliations>Trade Federation</formerAffiliations>
+  </row>
+  <row>
+    <id>45</id>
+    <name>Bib Fortuna</name>
+    <height>2</height>
+    <gender>male</gender>
+    <homeworld>ryloth</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Bib_Fortuna</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/3/33/BibFortunaHS-ROTJ.png</image>
+    <died>4</died>
+    <diedLocation>tatooine</diedLocation>
+    <species>twi&#x27;lek</species>
+    <eyeColor>pink</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Fortuna family</affiliations>
+    <affiliations>Jabba Desilijic Tiure&#x27;s criminal empire</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>46</id>
+    <name>Ayla Secura</name>
+    <height>1.7</height>
+    <mass>55</mass>
+    <gender>female</gender>
+    <homeworld>ryloth</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Aayla_Secura/Legends</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/f/f9/Aayla.jpg</image>
+    <born>-48</born>
+    <died>-19</died>
+    <diedLocation>felucia</diedLocation>
+    <species>twi&#x27;lek</species>
+    <eyeColor>hazel</eyeColor>
+    <skinColor>blue</skinColor>
+    <era>Rise of the Empire era</era>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <masters>Quinlan Vos (Jedi Master)</masters>
+    <masters>Volfe Karkko (Dark Jedi master) (briefly)</masters>
+    <masters>Tholme (Jedi Master)</masters>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>47</id>
+    <name>Ratts Tyerell</name>
+    <height>0.79</height>
+    <mass>15</mass>
+    <gender>male</gender>
+    <homeworld>aleen</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Ratts_Tyerell</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/6/68/RattsHS.jpg</image>
+    <died>-32</died>
+    <diedLocation>tatooine</diedLocation>
+    <species>aleena</species>
+    <eyeColor>black</eyeColor>
+    <skinColor>blue, white</skinColor>
+    <affiliations/>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>48</id>
+    <name>Dud Bolt</name>
+    <height>0.94</height>
+    <mass>45</mass>
+    <gender>male</gender>
+    <homeworld>vulpter</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Dud_Bolt</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/7/73/Dud_Bolt_Podracer_Cockpit.png</image>
+    <species>vulptereen</species>
+    <eyeColor>yellow</eyeColor>
+    <skinColor>blue-gray, yellow, white</skinColor>
+    <affiliations/>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>49</id>
+    <name>Gasgano</name>
+    <height>1.22</height>
+    <gender>male</gender>
+    <homeworld>troiken</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Gasgano</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/5/57/GasganoHS-SWE.jpg</image>
+    <species>xexto</species>
+    <eyeColor>black</eyeColor>
+    <skinColor>white, brown, purple</skinColor>
+    <affiliations/>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>50</id>
+    <name>Ben Quadinaros</name>
+    <height>1.63</height>
+    <mass>65</mass>
+    <gender>male</gender>
+    <homeworld>tund</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Ben_Quadinaros</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/7/7f/Cropped_Quadinaros.png</image>
+    <species>toong</species>
+    <eyeColor>orange</eyeColor>
+    <skinColor>yellow</skinColor>
+    <affiliations/>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>51</id>
+    <name>Mace Windu</name>
+    <height>1.92</height>
+    <mass>84</mass>
+    <gender>male</gender>
+    <homeworld>haruun kal</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Mace_Windu</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/5/58/Mace_ROTS.png</image>
+    <born>-72</born>
+    <died>-19</died>
+    <diedLocation>coruscant</diedLocation>
+    <species>human</species>
+    <hairColor>black; later none</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>dark</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Mace Windu&#x27;s squad</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Grand Army of the Republic</affiliations>
+    <masters>Cyslin Myr</masters>
+    <apprentices>Depa Billaba</apprentices>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>52</id>
+    <name>Ki-Adi-Mundi</name>
+    <height>1.98</height>
+    <mass>82</mass>
+    <gender>male</gender>
+    <homeworld>cerea</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Ki-Adi-Mundi</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/9/9e/KiAdiMundi.jpg</image>
+    <died>-19</died>
+    <diedLocation>mygeeto</diedLocation>
+    <species>cerean</species>
+    <hairColor>white</hairColor>
+    <eyeColor>yellow</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Galactic Marines</affiliations>
+    <born>-92</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>53</id>
+    <name>Kit Fisto</name>
+    <height>1.96</height>
+    <mass>87</mass>
+    <gender>male</gender>
+    <homeworld>glee anselm</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Kit_Fisto</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/4/4c/Kit_Fisto_Card_Trader.png</image>
+    <died>-19</died>
+    <diedLocation>coruscant</diedLocation>
+    <species>nautolan</species>
+    <eyeColor>black</eyeColor>
+    <skinColor>green</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Mace Windu&#x27;s squad</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <apprentices>Nahdar Vebb</apprentices>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>54</id>
+    <name>Eeth Koth</name>
+    <height>1.71</height>
+    <gender>male</gender>
+    <homeworld>nar shaddaa</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Eeth_Koth</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/4/4e/EethKothCardTrader.png</image>
+    <species>iridonian zabrak</species>
+    <hairColor>black</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>tan</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>55</id>
+    <name>Adi Gallia</name>
+    <height>1.84</height>
+    <mass>50</mass>
+    <gender>female</gender>
+    <homeworld>coruscant</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Adi_Gallia</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/b/ba/AdiGallia.jpg</image>
+    <died>-20</died>
+    <diedLocation>florrum</diedLocation>
+    <species>tholothian</species>
+    <eyeColor>blue</eyeColor>
+    <skinColor>dark (with blue patches)</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Grand Army of the Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>56</id>
+    <name>Saesee Tiin</name>
+    <height>1.93</height>
+    <gender>male</gender>
+    <homeworld>iktotch</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Saesee_Tiin</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/6/68/Saesee_Tiin_Card_Trader.jpg</image>
+    <died>-19</died>
+    <diedLocation>coruscant</diedLocation>
+    <species>iktotchi</species>
+    <eyeColor>yellow</eyeColor>
+    <skinColor>orange and pink</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Grand Army of the Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>57</id>
+    <name>Yarael Poof</name>
+    <height>2.64</height>
+    <gender>male</gender>
+    <homeworld>quermia</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Yarael_Poof</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/6/66/Yarael_Poof_Canon.jpeg</image>
+    <died>-27</died>
+    <species>quermian</species>
+    <eyeColor>red</eyeColor>
+    <skinColor>pasty white</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>58</id>
+    <name>Plo Koon</name>
+    <height>1.88</height>
+    <mass>80</mass>
+    <gender>male</gender>
+    <homeworld>dorin</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Plo_Koon</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png</image>
+    <died>-19</died>
+    <diedLocation>cato neimoidia</diedLocation>
+    <species>kel dor</species>
+    <skinColor>orange</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>104th Battalion</affiliations>
+    <eyeColor>black</eyeColor>
+    <born>-22</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>59</id>
+    <name>Mas Amedda</name>
+    <height>1.96</height>
+    <gender>male</gender>
+    <homeworld>champala</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Mas_Amedda</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/3/37/Mas_Amedda_SWCT.png</image>
+    <species>chagrian</species>
+    <eyeColor>blue</eyeColor>
+    <skinColor>blue</skinColor>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Galactic Senate</affiliations>
+    <affiliations>Office of the Chancellor</affiliations>
+    <affiliations>Strategic Advisory Cell</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Imperial Ruling Council</affiliations>
+    <affiliations>Coruscant provisional government</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>60</id>
+    <name>Gregar Typho</name>
+    <height>1.85</height>
+    <mass>85</mass>
+    <gender>male</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Gregar_Typho</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/5/52/Gregar_Typho.jpg</image>
+    <species>human</species>
+    <hairColor>black</hairColor>
+    <eyeColor>brown</eyeColor>
+    <affiliations>Royal House of Naboo</affiliations>
+    <affiliations>Royal Naboo Security Forces</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <skinColor>dark</skinColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>61</id>
+    <name>Cordé</name>
+    <height>1.57</height>
+    <gender>female</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Cord%C3%A9</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/b/b6/Cord%C3%A9_-_SW_Card_Trader.png</image>
+    <died>-22</died>
+    <diedLocation>coruscant</diedLocation>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Royal House of Naboo</affiliations>
+    <affiliations>Naboo Royal Handmaidens</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>62</id>
+    <name>Cliegg Lars</name>
+    <height>1.83</height>
+    <gender>male</gender>
+    <homeworld>tatooine</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Cliegg_Lars</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/3/36/ClieggLarsHS-SWE.jpg</image>
+    <died>-22</died>
+    <species>human</species>
+    <hairColor>light brown</hairColor>
+    <eyeColor>blue</eyeColor>
+    <skinColor>fair</skinColor>
+    <affiliations>Lars family</affiliations>
+    <born>-82</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>63</id>
+    <name>Poggle the Lesser</name>
+    <height>1.75</height>
+    <mass>80</mass>
+    <gender>male</gender>
+    <homeworld>geonosis</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Poggle_the_Lesser</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/9/93/Poggle_the_lesser_-_sw_card_trader.png</image>
+    <died>-19</died>
+    <diedLocation>mustafar</diedLocation>
+    <species>geonosian</species>
+    <eyeColor>yellow</eyeColor>
+    <affiliations>Stalgasin hive</affiliations>
+    <affiliations>Karina the Great&#x27;s empire</affiliations>
+    <affiliations>Techno Union</affiliations>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <affiliations>Separatist Council</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <skinColor>green</skinColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>64</id>
+    <name>Luminara Unduli</name>
+    <height>1.76</height>
+    <mass>56.2</mass>
+    <gender>female</gender>
+    <homeworld>mirial</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Luminara_Unduli</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/2/21/LuminaraHS-SWE_%28new%29.png</image>
+    <died>66</died>
+    <species>mirialan</species>
+    <hairColor>black</hairColor>
+    <eyeColor>royal-blue</eyeColor>
+    <skinColor>green (with black tattoos)</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>41st Elite Corps</affiliations>
+    <apprentices>Barriss Offee</apprentices>
+    <born>-58</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>65</id>
+    <name>Barriss Offee</name>
+    <height>1.66</height>
+    <mass>50</mass>
+    <gender>female</gender>
+    <homeworld>mirial</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Barriss_Offee</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/3/37/Barrisprofile2.jpg</image>
+    <species>mirialan</species>
+    <hairColor>black</hairColor>
+    <eyeColor>blue</eyeColor>
+    <skinColor>yellow (with black tattoos)</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Grand Army of the Republic</affiliations>
+    <masters>Luminara Unduli</masters>
+    <born>-40</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>66</id>
+    <name>Dormé</name>
+    <height>1.65</height>
+    <gender>female</gender>
+    <homeworld>naboo</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Dorm%C3%A9</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/1/18/Dormesenate.jpg</image>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Royal House of Naboo</affiliations>
+    <affiliations>Naboo Royal Handmaidens</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>67</id>
+    <name>Dooku</name>
+    <height>1.93</height>
+    <mass>86</mass>
+    <gender>male</gender>
+    <homeworld>serenno</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Dooku</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/b/b8/Dooku_Headshot.jpg</image>
+    <born>-102</born>
+    <died>-19</died>
+    <diedLocation>aboard invisible hand over coruscant</diedLocation>
+    <species>human</species>
+    <hairColor>white</hairColor>
+    <eyeColor>brown, yellowred (vision dark side)</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>House of Dooku</affiliations>
+    <affiliations>Lost Twenty</affiliations>
+    <affiliations>Sith</affiliations>
+    <affiliations>Independent Movement for Self-Determination</affiliations>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <masters>Yoda (Jedi)</masters>
+    <masters>Darth Sidious (Sith)</masters>
+    <apprentices>Qui-Gon Jinn (Jedi)</apprentices>
+    <apprentices>Grievous (lightsaber trainee)</apprentices>
+    <apprentices>Asajj Ventress</apprentices>
+    <apprentices>Savage Opress (Sith)</apprentices>
+    <apprentices>Quinlan Vos (Sith)</apprentices>
+    <formerAffiliations>Jedi Order</formerAffiliations>
+    <formerAffiliations>Galactic Republic</formerAffiliations>
+  </row>
+  <row>
+    <id>68</id>
+    <name>Bail Prestor Organa</name>
+    <height>1.91</height>
+    <gender>male</gender>
+    <homeworld>alderaan</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Bail_Prestor_Organa</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/5/50/Bail_Organa_Mug.jpg</image>
+    <born>-67</born>
+    <died>0</died>
+    <diedLocation>alderaan</diedLocation>
+    <species>human</species>
+    <hairColor>black</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>tan</skinColor>
+    <era>Rise of the Empire era</era>
+    <era>Rebellion era</era>
+    <affiliations>House of Organa</affiliations>
+    <affiliations>High Court of Alderaan</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Galactic Senate</affiliations>
+    <affiliations>Loyalist Committee</affiliations>
+    <affiliations>Security Committee</affiliations>
+    <affiliations>Delegation of 2000</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <affiliations>Imperial Senate</affiliations>
+    <affiliations>Finance Committee</affiliations>
+    <affiliations>Appropriations Committee</affiliations>
+    <affiliations>Intelligence Oversight Committee</affiliations>
+    <affiliations>Military Oversight Committee</affiliations>
+    <affiliations>Alderaanian Resistance</affiliations>
+    <affiliations>Kota&#x27;s Militia</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>69</id>
+    <name>Jango Fett</name>
+    <height>1.83</height>
+    <mass>79</mass>
+    <gender>male</gender>
+    <homeworld>concord dawn</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Jango_Fett</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/5/56/JangoInfobox.png</image>
+    <died>-22</died>
+    <diedLocation>geonosis</diedLocation>
+    <species>human</species>
+    <hairColor>black</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>tan</skinColor>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <affiliations>Tyranus</affiliations>
+    <born>-66</born>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>70</id>
+    <name>Zam Wesell</name>
+    <height>1.68</height>
+    <mass>55</mass>
+    <gender>female</gender>
+    <homeworld>zolan</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Zam_Wesell</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/7/7d/Clawdite.jpg</image>
+    <died>-22</died>
+    <diedLocation>coruscant</diedLocation>
+    <species>clawdite</species>
+    <skinColor>green</skinColor>
+    <affiliations>Mabari</affiliations>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <hairColor>blond</hairColor>
+    <eyeColor>yellow</eyeColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>71</id>
+    <name>Dexter Jettster</name>
+    <height>1.88</height>
+    <mass>102</mass>
+    <gender>male</gender>
+    <homeworld>ojom</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Dexter_Jettster</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/6/6c/DexterHS-SWE.jpg</image>
+    <species>besalisk</species>
+    <hairColor>brown-black</hairColor>
+    <eyeColor>yellow</eyeColor>
+    <skinColor>tan-brown</skinColor>
+    <affiliations>Dex&#x27;s Diner</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>72</id>
+    <name>Lama Su</name>
+    <height>2.29</height>
+    <mass>88</mass>
+    <gender>male</gender>
+    <homeworld>kamino</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Lama_Su</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/7/73/Lama_Su.jpg</image>
+    <species>kaminoan</species>
+    <eyeColor>black with white pupils</eyeColor>
+    <skinColor>white</skinColor>
+    <affiliations>Galactic Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>73</id>
+    <name>Taun We</name>
+    <height>2.13</height>
+    <gender>female</gender>
+    <homeworld>kamino</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Taun_We</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/9/9c/TaunWe.jpg</image>
+    <species>kaminoan</species>
+    <eyeColor>black with white pupils</eyeColor>
+    <skinColor>white</skinColor>
+    <affiliations>Galactic Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>74</id>
+    <name>Jocasta Nu</name>
+    <height>1.69</height>
+    <gender>female</gender>
+    <homeworld>coruscant</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Jocasta_Nu</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/1/15/Jocasta_Nu_SWE.png</image>
+    <died>-19</died>
+    <diedLocation>coruscant</diedLocation>
+    <species>human</species>
+    <hairColor>white</hairColor>
+    <eyeColor>blue</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>75</id>
+    <name>R4-P17</name>
+    <height>1.09</height>
+    <gender>female</gender>
+    <species>droid</species>
+    <wiki>http://starwars.wikia.com/wiki/R4-P17</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/6/6b/R4-P17.jpg</image>
+    <dateDestroyed>-19</dateDestroyed>
+    <destroyedLocation>coruscant system</destroyedLocation>
+    <manufacturer>Industrial Automaton</manufacturer>
+    <productLine>R-series</productLine>
+    <class>Astromech droid</class>
+    <platingColor>red</platingColor>
+    <armament>Electro-shock prod</armament>
+    <affiliations>Galactic Republic</affiliations>
+    <skinColor>silver, red</skinColor>
+    <eyeColor>red, blue</eyeColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>76</id>
+    <name>Wat Tambor</name>
+    <height>1.98</height>
+    <mass>48</mass>
+    <gender>male</gender>
+    <homeworld>skako</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Wat_Tambor</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/a/a5/Wat_Tambor.png</image>
+    <died>-19</died>
+    <diedLocation>mustafar</diedLocation>
+    <species>skakoan</species>
+    <eyeColor>black</eyeColor>
+    <skinColor>green</skinColor>
+    <affiliations>Techno Union</affiliations>
+    <affiliations>Baktoid Armor Workshop</affiliations>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <affiliations>Separatist Council</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>77</id>
+    <name>San Hill</name>
+    <height>1.91</height>
+    <gender>male</gender>
+    <homeworld>scipio</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/San_Hill</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/6/6f/SanHill_hs.jpg</image>
+    <died>-19</died>
+    <diedLocation>mustafar</diedLocation>
+    <species>muun</species>
+    <eyeColor>yellow</eyeColor>
+    <skinColor>pale</skinColor>
+    <affiliations>InterGalactic Banking Clan</affiliations>
+    <affiliations>Muunilinst Banking Clan</affiliations>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <affiliations>Separatist Council</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>78</id>
+    <name>Shaak Ti</name>
+    <height>1.87</height>
+    <mass>57</mass>
+    <gender>female</gender>
+    <homeworld>shili</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Shaak_Ti</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/2/20/Shaak_Ti_closeup-SWE.png</image>
+    <born>-59</born>
+    <died>-19</died>
+    <diedLocation>coruscant</diedLocation>
+    <species>togruta</species>
+    <eyeColor>black</eyeColor>
+    <skinColor>red (with white markings and gray stripes)</skinColor>
+    <affiliations>Jedi Order</affiliations>
+    <affiliations>Jedi High Council</affiliations>
+    <affiliations>Jedi assault team</affiliations>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Grand Army of the Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>79</id>
+    <name>Grievous</name>
+    <height>2.16</height>
+    <mass>159</mass>
+    <gender>male</gender>
+    <homeworld>kalee</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Grievous</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/d/de/Grievoushead.jpg</image>
+    <died>-19</died>
+    <diedLocation>utapau</diedLocation>
+    <species>kaleesh</species>
+    <eyeColor>gold</eyeColor>
+    <skinColor>red</skinColor>
+    <cybernetics>Completely cybernetic except for brain, some vital organs, and parts of his head</cybernetics>
+    <affiliations>Confederacy of Independent Systems</affiliations>
+    <affiliations>Separatist Droid Army</affiliations>
+    <masters>Dooku (lightsaber combat)</masters>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>80</id>
+    <name>Tarfful</name>
+    <height>2.32</height>
+    <mass>136</mass>
+    <gender>male</gender>
+    <homeworld>kashyyyk</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Tarfful</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/3/37/Tarfful_RotS.png</image>
+    <species>wookiee</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>blue</eyeColor>
+    <affiliations>Galactic Republic</affiliations>
+    <skinColor>brown</skinColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>81</id>
+    <name>Raymus Antilles</name>
+    <height>1.88</height>
+    <mass>79</mass>
+    <gender>male</gender>
+    <homeworld>alderaan</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Raymus_Antilles</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/8/80/Raymus_card_trader.png</image>
+    <died>0</died>
+    <diedLocation>tantive iv, tatoo system</diedLocation>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>fair</skinColor>
+    <affiliations>House of Organa</affiliations>
+    <affiliations>Alliance to Restore the Republic</affiliations>
+    <affiliations>Alliance Military</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>82</id>
+    <name>Sly Moore</name>
+    <height>1.78</height>
+    <mass>48</mass>
+    <gender>female</gender>
+    <homeworld>umbara</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Sly_Moore</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/e/ec/SlyMooreIsWatchingYouPoop-OfficialPix.jpg</image>
+    <species>umbaran</species>
+    <eyeColor>white</eyeColor>
+    <skinColor>pale</skinColor>
+    <affiliations>Galactic Republic</affiliations>
+    <affiliations>Office of the Chancellor</affiliations>
+    <affiliations>Galactic Empire</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>83</id>
+    <name>Tion Medon</name>
+    <height>2.06</height>
+    <mass>80</mass>
+    <gender>male</gender>
+    <homeworld>utapau</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Tion_Medon</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/4/43/Tion_Medon.jpg</image>
+    <species>pau&#x27;an</species>
+    <eyeColor>black</eyeColor>
+    <skinColor>gray (with red markings)</skinColor>
+    <affiliations>Galactic Republic</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>84</id>
+    <name>Finn</name>
+    <height>1.78</height>
+    <mass>73</mass>
+    <gender>male</gender>
+    <wiki>http://starwars.wikia.com/wiki/Finn</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/a/af/Finn_TLJ_Collector%27s_Edition.png</image>
+    <born>11</born>
+    <species>human</species>
+    <hairColor>black</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>dark</skinColor>
+    <affiliations>First Order</affiliations>
+    <affiliations>FN Corps</affiliations>
+    <affiliations>Resistance</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>85</id>
+    <name>Rey</name>
+    <height>1.7</height>
+    <mass>54</mass>
+    <gender>female</gender>
+    <homeworld>jakku</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Rey</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/f/f8/ReyTLJEntertainmentWeeklyNovember.png</image>
+    <born>15</born>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>hazel</eyeColor>
+    <skinColor>light</skinColor>
+    <affiliations>Resistance</affiliations>
+    <affiliations>Jedi Order</affiliations>
+    <masters>Luke Skywalker</masters>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>86</id>
+    <name>Poe Dameron</name>
+    <height>1.72</height>
+    <mass>80</mass>
+    <gender>male</gender>
+    <homeworld>yavin 4</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Poe_Dameron</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/7/79/Poe_Dameron_TLJ.png</image>
+    <born>2</born>
+    <species>human</species>
+    <hairColor>brown</hairColor>
+    <eyeColor>brown</eyeColor>
+    <skinColor>tan</skinColor>
+    <affiliations>New Republic</affiliations>
+    <affiliations>Rapier Squadron</affiliations>
+    <affiliations>Resistance</affiliations>
+    <affiliations>Squadron</affiliations>
+    <affiliations>Black Squadron</affiliations>
+    <affiliations>Blue Squadron</affiliations>
+    <affiliations>Red Squadron</affiliations>
+    <affiliations>&quot;Reb&quot; Squadron</affiliations>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>87</id>
+    <name>BB8</name>
+    <height>0.67</height>
+    <mass>18</mass>
+    <gender>male</gender>
+    <species>droid</species>
+    <wiki>http://starwars.wikia.com/wiki/BB-8</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/6/68/BB8-Fathead.png</image>
+    <model>BB-series</model>
+    <class>Astromech droid</class>
+    <sensorColor>black</sensorColor>
+    <platingColor>stainless inoxium</platingColor>
+    <equipment>Grappling Spike Launcher</equipment>
+    <equipment>Welding torch</equipment>
+    <equipment>Holoprojector</equipment>
+    <equipment>Arc welder</equipment>
+    <affiliations>New Republic</affiliations>
+    <affiliations>Rapier Squadron</affiliations>
+    <affiliations>Resistance</affiliations>
+    <affiliations>Black Squadron</affiliations>
+    <eyeColor>black</eyeColor>
+    <formerAffiliations/>
+  </row>
+  <row>
+    <id>88</id>
+    <name>Captain Phasma</name>
+    <height>2</height>
+    <mass>76</mass>
+    <gender>female</gender>
+    <homeworld>parnassos</homeworld>
+    <wiki>http://starwars.wikia.com/wiki/Phasma</wiki>
+    <image>https://vignette.wikia.nocookie.net/starwars/images/0/02/Phasma.png</image>
+    <species>human</species>
+    <hairColor>gold</hairColor>
+    <eyeColor>blue</eyeColor>
+    <skinColor>pale</skinColor>
+    <affiliations>Unidentified clan</affiliations>
+    <affiliations>Scyre</affiliations>
+    <affiliations>First Order</affiliations>
+    <affiliations>First Order military</affiliations>
+    <formerAffiliations/>
+  </row>
+</root>

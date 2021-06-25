@@ -1,0 +1,174 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/name"
+        style="@style/CodeFontLarge"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/publisher"
+        tools:text="@string/name" />
+
+    <TextView
+        android:id="@+id/publisher"
+        style="@style/CodeFontMedium"
+        android:layout_marginTop="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name"
+        app:layout_constraintBottom_toTopOf="@+id/imageView_imagen"
+        tools:text="@string/publisher" />
+
+
+    <ImageView
+        android:id="@+id/imageView_imagen"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/imagen"
+        android:scaleType="fitXY"
+        android:src="@android:drawable/ic_menu_gallery"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/publisher"
+        app:layout_constraintBottom_toTopOf="@+id/fullName"/>
+
+
+    <TextView
+        android:id="@+id/fullName"
+        style="@style/CodeFontMedium"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@+id/imageView_imagen"
+        app:layout_constraintEnd_toStartOf="@+id/alignment"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/otros"
+        tools:text="@string/fullName" />
+
+    <TextView
+        android:id="@+id/alignment"
+        style="@style/CodeFontSmall"
+        android:layout_marginStart="10dp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/fullName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/fullName"
+        tools:text="@string/alignment" />
+
+
+    <TextView
+        android:id="@+id/otros"
+        style="@style/CodeFontMedium"
+        android:layout_marginTop="10dp"
+        android:text="@string/Alter_Egos_y_Alias"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/alignment"
+        app:layout_constraintBottom_toTopOf="@+id/alterEgos"/>
+
+    <TextView
+        android:id="@+id/alterEgos"
+        style="@style/CodeFontSmall"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/otros"
+        app:layout_constraintBottom_toTopOf="@+id/aliases"
+        tools:text="@string/alterEgos" />
+
+    <TextView
+        android:id="@+id/aliases"
+        style="@style/CodeFontSmall"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/alterEgos"
+        app:layout_constraintBottom_toTopOf="@+id/caracteristicas"
+        tools:text="@string/aliases" />
+
+
+    <TextView
+        android:id="@+id/caracteristicas"
+        style="@style/CodeFontMedium"
+        android:layout_marginTop="10dp"
+        android:text="@string/Caracteristicas"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/aliases"
+        app:layout_constraintBottom_toTopOf="@+id/combat"/>
+
+
+    <TextView
+        android:id="@+id/combat"
+        style="@style/CodeFontSmall"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toStartOf="@+id/power"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/caracteristicas"
+        app:layout_constraintBottom_toTopOf="@+id/strength"
+        tools:text="@string/combat" />
+
+    <TextView
+        android:id="@+id/power"
+        style="@style/CodeFontSmall"
+        android:layout_marginStart="10dp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/combat"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/combat"
+        tools:text="@string/power" />
+
+
+    <TextView
+        android:id="@+id/strength"
+        style="@style/CodeFontSmall"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toStartOf="@+id/durability"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/combat"
+        app:layout_constraintBottom_toTopOf="@+id/intelligence"
+        tools:text="@string/strength" />
+
+    <TextView
+        android:id="@+id/durability"
+        style="@style/CodeFontSmall"
+        android:layout_marginStart="10dp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/strength"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/strength"
+        tools:text="@string/durability" />
+
+
+    <TextView
+        android:id="@+id/intelligence"
+        style="@style/CodeFontSmall"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        app:layout_constraintEnd_toStartOf="@+id/speed"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/strength"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:text="@string/intelligence" />
+
+    <TextView
+        android:id="@+id/speed"
+        style="@style/CodeFontSmall"
+        android:layout_marginStart="10dp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/intelligence"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/intelligence"
+        tools:text="@string/speed" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

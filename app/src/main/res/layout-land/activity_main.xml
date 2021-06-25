@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.aac.superheroe.ui.MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/CodeFontMedium"
+        android:layout_marginTop="60dp"
+        android:text="@string/Update_data"
+        app:layout_constraintEnd_toStartOf="@+id/textView2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnStartUpdateDataActivity"
+        style="@style/CodeButton"
+        android:layout_marginTop="10dp"
+        android:text="@string/Update"
+        app:layout_constraintEnd_toStartOf="@+id/textView2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/CodeFontMedium"
+        android:layout_marginTop="40dp"
+        android:text="@string/Jugar_partida"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        app:layout_constraintEnd_toStartOf="@+id/textView2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnStartUpdateDataActivity" />
+
+    <Button
+        android:id="@+id/btnStartJuegoActivity"
+        style="@style/CodeButton"
+        android:layout_marginTop="10dp"
+        android:text="@string/Jugar"
+        app:layout_constraintEnd_toStartOf="@+id/textView2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/CodeFontMedium"
+        android:layout_marginTop="60dp"
+        android:text="@string/Ver_datos_de_la_BD"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnStartHeroeAllActivity"
+        style="@style/CodeButton"
+        android:layout_marginTop="10dp"
+        android:text="@string/All"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Button
+        android:id="@+id/btnStartHeroeCatActivity"
+        style="@style/CodeButton"
+        android:layout_marginTop="20dp"
+        android:text="@string/Category"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/btnStartHeroeAllActivity" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

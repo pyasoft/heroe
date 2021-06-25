@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="87dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="162dp" />
+
+    <TextView
+        android:id="@+id/regapi_textView"
+        style="@style/CodeFontMedium"
+        tools:text="@string/api"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toStartOf="@+id/reglocal_textView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/progressBar" />
+
+    <TextView
+        android:id="@+id/reglocal_textView"
+        style="@style/CodeFontMedium"
+        tools:text="@string/local"
+        app:layout_constraintBaseline_toBaselineOf="@+id/regapi_textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/regapi_textView" />
+
+    <TextView
+        android:id="@+id/aviso_textView"
+        style="@style/CodeFontMedium"
+        tools:text="@string/losdatosestanactualizados"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/reglocal_textView" />
+
+    <Button
+        android:id="@+id/update_button"
+        style="@style/CodeButton"
+        android:layout_marginTop="40dp"
+        android:text="@string/update_Local"
+        app:layout_constraintEnd_toStartOf="@+id/update_textView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/aviso_textView" />
+    
+    <TextView
+        android:id="@+id/update_textView"
+        style="@style/CodeFontMedium"
+        tools:text="@string/datosimportados"
+        app:layout_constraintBaseline_toBaselineOf="@+id/update_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/update_button" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

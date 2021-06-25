@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Superheroe</string>
+
+    <!-- Text for the main. -->
+    <string name="Update_data">Actualizar datos</string>
+    <string name="Update">Actualizar</string>
+    <string name="Ver_datos_de_la_BD">Ver datos de la BD</string>
+    <string name="All">All</string>
+    <string name="Category">Category</string>
+    <string name="Jugar_partida">Jugar partida</string>
+    <string name="Jugar">Jugar</string>
+
+    <!-- Text for the update data. -->
+    <string name="api">api</string>
+    <string name="local">local</string>
+    <string name="losdatosestanactualizados">Los datos estan actualizados</string>
+    <string name="datosimportados">Datos importados</string>
+    <string name="update_Local">Actualizar BD Local</string>
+
+    <!-- Text for the itemlist Heroe. -->
+    <string name="name">name</string>
+    <string name="publisher">publisher</string>
+    <string name="fullName">fullName</string>
+
+    <!-- Text for the Heroe detalle. -->
+    <string name="alignment">alignment</string>
+    <string name="combat">combat</string>
+    <string name="power">power</string>
+    <string name="strength">strength</string>
+    <string name="durability">durability</string>
+    <string name="intelligence">intelligence</string>
+    <string name="speed">speed</string>
+    <string name="Alter_Egos_y_Alias">Alter Egos y Alias</string>
+    <string name="alterEgos">alterEgos</string>
+    <string name="aliases">aliases</string>
+    <string name="Caracteristicas">Caracteristicas</string>
+
+    <!-- Text for the GAME. -->
+    <string name="titulo">¿Quien ganaria un combate?</string>
+    <string name="imagen">imagen</string>
+
+    <string name="name1">name1</string>
+    <string name="publisher1">publisher1</string>
+    <string name="combat1">combat1</string>
+    <string name="power1">power1</string>
+    <string name="strength1">strength1</string>
+    <string name="durability1">durability1</string>
+    <string name="intelligence1">intelligence1</string>
+    <string name="speed1">speed1</string>
+    <string name="name2">name2</string>
+    <string name="publisher2">publisher2</string>
+    <string name="combat2">combat2</string>
+    <string name="power2">power2</string>
+    <string name="strength2">strength2</string>
+    <string name="durability2">durability2</string>
+    <string name="intelligence2">intelligence2</string>
+    <string name="speed2">speed2</string>
+
+    <!-- Text for button for GAME. -->
+    <string name="gana_button">Gana</string>
+
+    <!-- Text for Fragment. -->
+    <string name="title_text">Titulo</string>
+    <string name="linea1_text">Linea 1</string>
+    <string name="linea2_text">Linea 2</string>
+
+    <string name="you_scored_text">You Scored</string>
+
+    <string name="score">Score </string>
+
+    <string name="Game_has_just_finished">Game has just finished</string>
+
+    <!-- Text for button for Fragment. -->
+    <string name="play_button">Play</string>
+    <string name="play_again_button">Play Again</string>
+
+    <!-- Text for Pruebas. -->
+
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
